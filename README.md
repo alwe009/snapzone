@@ -20,7 +20,8 @@
 
 ## 🖼️ Screenshot
 
-<img width="504" height="634" alt="screenshot" src="https://github.com/user-attachments/assets/7ae98a44-a08f-4c44-931f-0387c442dd75" />
+
+<img width="504" height="634" alt="screenshot" src="https://github.com/user-attachments/assets/8430aee8-f6e7-4a69-bea7-a101ca70d2e7" />
 
 
 ---
