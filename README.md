@@ -51,10 +51,10 @@ python snapzone.py
 
 ### 📦 Run as executable
 
-If you've built an `.exe` file:
+Download the executable file
 
 ```bash
-SnapZone.exe
+https://github.com/alwe009/snapzone/blob/main/dist/snapzone.exe
 ```
 
 > 💡 Ideal for users without Python installed.
